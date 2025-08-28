@@ -1,20 +1,5 @@
 # FrameSync
 
-<p align="center">
-  <img alt="FrameSync Logo" src="client/public/favicon.ico" width="64" />
-</p>
-
-<p align="center">
-  <a href="https://nodejs.org/">Node.js</a> ·
-  <a href="https://nextjs.org/">Next.js</a> ·
-  <a href="https://react.dev/">React</a> ·
-  <a href="https://www.keycloak.org/">Keycloak</a> ·
-  <a href="https://www.postgresql.org/">PostgreSQL</a> ·
-  <a href="https://www.mongodb.com/">MongoDB</a> ·
-  <a href="https://socket.io/">Socket.IO</a> ·
-  <a href="https://www.docker.com/">Docker</a>
-</p>
-
 ---
 
 ## Overview
@@ -166,12 +151,6 @@ GET /db-test          # Database connectivity test
 
 > Route files under `server/routes` define specific verbs/params (not shown here). Socket rooms join via `join-media` with `mediaId`.
 
-## Screenshots
-
-Add screenshots or GIFs of core flows in `client/public/` and reference them here, e.g.:
-
-![Home](client/public/screenshot-home.png)
-![Media Detail](client/public/screenshot-media.png)
 
 ## Deployment
 
